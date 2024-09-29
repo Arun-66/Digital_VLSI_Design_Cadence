@@ -1,0 +1,13 @@
+Ideal Delay - Sum = 137.6pS 
+            - Carry = 106.1pS
+Post lyt Delay - Sum = 161.6pS
+	         Carry = 151.1pS
+Pmos W = 4u	Pmos L = 180n
+Nmos W = 2u	Nmos L = 180n
+
+Mirror Logic & Chaining Manually
+Chained delay - Sum - 109pS
+	      - Carry - 81pS
+
+Ppost Lyt     - Sum - 117pS
+	      - Carry -91pS

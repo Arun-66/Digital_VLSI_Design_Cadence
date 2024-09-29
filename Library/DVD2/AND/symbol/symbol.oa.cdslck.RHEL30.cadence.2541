@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      buet
+HostName                       cadence
+ProcessIdentifier              2541
+ProcessCreationTime_UTC        1707995424
+ProcessCreationTime_Readable   Thu Feb 15 17:10:24 2024 BDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /media/Cadence/DVD2/AND/symbol/symbol.oa.cdslck
+TimeEditLocked                 Thu Feb 15 17:21:33 2024 BDT

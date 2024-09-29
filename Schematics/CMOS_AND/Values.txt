@@ -1,0 +1,7 @@
+VIL-806.65mV
+VIH-899.24mV
+Vth-844mV
+Power - 0 to 1.8 --1.6mW
+	1.8 to 0 --1.85mW
+Ideal Delay - 60pS
+Post lyt Delay -66.98pS

@@ -1,0 +1,4 @@
+Ideal Delay - Vout =  98.47pS
+Post lyt Delay - Vout = 116pS
+Pmos W = 4u	Pmos L = 180n
+Nmos W = 2u	Nmos L = 180n
